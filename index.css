@@ -1,0 +1,16 @@
+:root{
+    --main-color: white;
+    --accent-color: rgb(149, 149, 255);
+}
+
+a:hover{
+    cursor: pointer;
+}
+
+.accent-color{
+    color: var(--accent-color);
+}
+
+.main-color{
+    color: var(--main-color);
+}
